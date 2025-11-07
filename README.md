@@ -37,7 +37,7 @@ The intelligent backend:
 - **Backend**: Python Flask, MySQL
 - **Data Processing**: Pandas, OpenPyXL
 
-## ✨ Key Features
+##  Key Features
 
 ### Intelligent Excel Processing
 - Auto-detects and maps Excel columns to database fields
