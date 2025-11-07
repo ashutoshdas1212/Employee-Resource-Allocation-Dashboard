@@ -13,7 +13,21 @@ So, we can see in the video that the employee which I had marked as "Not in Benc
 
 Also, when I delete any column in the Excel sheet and upload it, it gets the data and shows it in the UI, which shows that it is an intelligent system and it can fetch the required data from the given Excel sheet irrespective of how many columns there are. Our aim was also to allow different column names, and it recognizes and matches them with the column names of the MySQL table, inserts the data, and shows it in the UI.
 
-# Bench Management System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A full-stack application for managing employee bench status with Excel upload capabilities, dynamic filtering, and resume downloads.
 
