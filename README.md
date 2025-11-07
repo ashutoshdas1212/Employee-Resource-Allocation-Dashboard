@@ -60,15 +60,7 @@ const toggleStatus = (ps_no) => {
 };
 
 
-
-
-
-
-
-
-
-
-
+```
 A full‑stack bench management solution for HR/staffing teams. Upload Excel rosters, normalize inconsistent columns, persist to MySQL, and manage bench status from a clean React UI with fast filters, pagination, and resume downloads.
 
 
@@ -260,3 +252,12 @@ Table: `benchresource.employee_data`
 - Frontend: React + Vite
 - Backend: Flask + Pandas + OpenPyXL
 - Database: MySQL
+
+
+
+
+
+
+
+
+
