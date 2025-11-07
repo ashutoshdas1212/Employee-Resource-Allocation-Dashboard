@@ -115,7 +115,7 @@ Data flow (core loop):
 
 ## Project Structure
 ```text
-LTTS Bench Management System/
+Employee Resource Allocation Dashboard/
 ├── README.md                     
 ├── readme2.md                    # GitHub‑ready README (this file)
 ├── project_analysis.md           # Resume/portfolio analysis
