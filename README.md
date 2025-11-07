@@ -32,7 +32,7 @@ The intelligent backend:
 - Preserves data integrity during updates
 - Exports updated statuses back to Excel
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: React, Vite, TanStack Query, Axios
 - **Backend**: Python Flask, MySQL
 - **Data Processing**: Pandas, OpenPyXL
